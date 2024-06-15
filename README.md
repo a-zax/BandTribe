@@ -1,8 +1,9 @@
-!! Files Have Been Added in the Fronted & Database Branch !!
+#### !! Files Have Been Added in the Fronted & Database Branch !!
 
-AIM - The aim of our project is to build a system where different types of user’s would be able to collaborate instantly with our application. If a band has a concert on the next day but due to any sudden reason one of the band member is unable to come , so it's difficult with the band to perform. For that situation we will suggest  them our application i.e., “BandTribe”
+#### AIM 
+The aim of our project is to build a system where different types of user’s would be able to collaborate instantly with our application. If a band has a concert on the next day but due to any sudden reason one of the band member is unable to come , so it's difficult with the band to perform. For that situation we will suggest  them our application i.e., “BandTribe”
 
-BRIEF DESCRIPTION
+#### BRIEF DESCRIPTION
 • Designed Developed a user-friendly and intuitive application, BANDTRIBE (e-Social Collaboration App) using a GUI interface implemented in Python to facilitate collaboration and opportunities for artists and creators. 
 • BANDTRIBE is Dedicated platform and an innovative application designed to bring together artists, creators, and musicians in collaborative and interactive environment. The application focuses on providing a user-friendly and intuitive experience. 
 • Implemented various features, ensuring easy form filling, dynamic addition, removal, and updating of components, with self-explanatory hints for input fields.. 
