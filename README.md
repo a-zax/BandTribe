@@ -1,4 +1,4 @@
-#### !! Files Have Been Added in the Fronted & Database Branch !!
+## !! Files Have Been Added in the Fronted & Database Branch !!
 
 #### AIM 
 The aim of our project is to build a system where different types of user’s would be able to collaborate instantly with our application. If a band has a concert on the next day but due to any sudden reason one of the band member is unable to come , so it's difficult with the band to perform. For that situation we will suggest  them our application i.e., “BandTribe”
